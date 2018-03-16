@@ -1,0 +1,7 @@
+Create a new docker container
+Write a hello world service that demonstrates s6
+Create a hello world flask app
+Run the flask app locally
+Run the flask app under uwsgi in the container
+Add envconsul
+Add nginx?
