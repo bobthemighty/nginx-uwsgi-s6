@@ -1,3 +1,2 @@
 #!/bin/sh
-echo "Hello world"
-sleep 5
+uwsgi /etc/uwsgi/uwsgi.ini
