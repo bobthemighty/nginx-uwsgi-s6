@@ -3,5 +3,6 @@ Write a hello world service that demonstrates s6
 Create a hello world flask app
 Run the flask app locally
 Run the flask app under uwsgi in the container
+  * fixattrs.d
 Add envconsul
 Add nginx?
